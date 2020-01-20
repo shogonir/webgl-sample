@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "es2015",
+    "module": "es2015",
+    "baseUrl": "./",
+    "paths": {
+      "import-png": [ "types/png" ]
+    },
+    "typeRoots": [
+      "types",
+      "node_modules/@types"
+    ]
+  },
+}
